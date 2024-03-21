@@ -1,0 +1,3 @@
+[submodule "MyHealthBuddy"]
+	path = MyHealthBuddy
+	url = ./MyHealthBuddy
